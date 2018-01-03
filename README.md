@@ -1,0 +1,2 @@
+# chinadns
+chinadns in docker
